@@ -1,0 +1,25 @@
+.title{
+	border-bottom:2px solid #666362;
+	height:60px;
+	width:270px;
+	margin:0 auto;}
+.title p{
+	color:#382D2C;
+	height:30px;
+	font-size:28px;
+	font-family:"Helvetica roman", helvetica, Arial, sans-serif;
+	letter-spacing:-0.02em;
+	text-align:center;}
+.title2 {
+	background-color:white;
+	height:30px;
+	width:120px;
+	margin:0 auto;
+	margin-top:-30px;}
+.title2 p{
+	color:#382D2C;
+	height:30px;
+	font-size:19px;
+	font-family:"Helvetica roman";
+	letter-spacing:-0.02em;
+	text-align:center;}
